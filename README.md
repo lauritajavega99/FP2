@@ -1,6 +1,6 @@
-# Sistema de Gestión de Comunidades de Vecinos, Fundamentos de Programación 2 2019/2020
+# Sistema de Gestión de Comunidades de Vecinos.
 
-_Este proyecto trata de automatizar un sistema de gestión de comunidades de vecinos de edificios cumpliendo una serie de
+_Este proyecto de la asignatura de **Fundamentos de Programación 2** trata de automatizar un sistema de gestión de comunidades de vecinos de edificios cumpliendo una serie de
 requisitos generales._ 
 
 ## Autora✒️
