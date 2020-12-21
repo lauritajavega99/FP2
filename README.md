@@ -1,4 +1,4 @@
-# Sistema de Gestión de Comunidades de Vecinos.
+# Sistema de Gestión de Comunidades de Vecinos
 
 _Este proyecto de la asignatura de **Fundamentos de Programación 2** trata de automatizar un sistema de gestión de comunidades de vecinos de edificios cumpliendo una serie de
 requisitos generales._ 
